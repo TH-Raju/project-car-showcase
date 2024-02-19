@@ -3,6 +3,7 @@ import CustomButton from "./CustomButton";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import SearchBar from "./SearchBar";
+import CarCard from "./CarCard";
 import CustomFilter from "./CustomFilter";
 import SearchManufacturer from "./SearchManufacturer";
 
@@ -14,4 +15,5 @@ export {
   SearchBar,
   CustomFilter,
   SearchManufacturer,
+  CarCard,
 };
